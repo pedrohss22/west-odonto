@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://westodonto.navitrinetech.com.br/sitemap.xml
